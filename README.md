@@ -1,1 +1,2 @@
-This guy is lazy and he hasn't written any README.
+My personal Note about learning Python, for intermediate level
+
